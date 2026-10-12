@@ -59,3 +59,18 @@ The project provides a simple way to analyze student performance and generate us
 Author
 
 Student project completed as part of Python with AI coursework.
+
+Project Overview
+
+The Student Performance Analytics System is a Python-based project that analyzes student marks and attendance using NumPy and Pandas.
+
+Project Output
+
+"Student Performance Report" (screenshots/student_report.png)
+
+<img width="1920" height="1200" alt="Screenshot (4)" src="https://github.com/user-attachments/assets/f1ab553b-0735-483b-a3c4-555f9d30062d" />
+<img width="1920" height="1200" alt="Screenshot (5)" src="https://github.com/user-attachments/assets/8e3c7999-0cae-49de-9781-35f3d1e9f8ca" />
+<img width="1920" height="1200" alt="Screenshot (6)" src="https://github.com/user-attachments/assets/bedcd7b4-07ab-41e6-b6c5-3482b6302d04" />
+
+
+
